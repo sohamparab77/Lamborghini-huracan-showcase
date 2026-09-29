@@ -7,7 +7,8 @@ A high-performance, animation-heavy immersive landing page dedicated to the Lamb
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<video src="https://github.com/sohamparab77/lamborghini-huracan-showcase/raw/main/videoplayback.mp4" width="100%" autoplay loop muted playsinline>
+
+<video src="https://github.com/sohamparab77/lamborghini-huracan-showcase/raw/main/videoplayback.mp4" width="100%" autoplay loop muted playsinline></video>
 
 ## 📕 Repository Structure
 ```text
